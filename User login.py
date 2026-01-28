@@ -9,3 +9,10 @@ for i in range(0,3):
             y=input("re-enter: ")
         else:
             print("too many attempts")
+
+
+
+#OUTPUT
+create: hi
+enter: hi
+hello
