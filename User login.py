@@ -13,6 +13,14 @@ for i in range(0,3):
 
 
 #OUTPUT
+case 1
 create: hi
 enter: hi
 hello
+
+case 2
+create: g
+enter: h
+re-enter: h
+re-enter: h
+too many attempts
