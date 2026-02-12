@@ -14,3 +14,13 @@ else:
        n1 = n2
        n2 = nth
        count += 1
+
+
+OUTPUT
+How many terms? 5
+Fibonacci sequence:
+0
+1
+1
+2
+3
