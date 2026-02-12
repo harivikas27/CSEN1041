@@ -8,3 +8,8 @@ while i <= n:
     f*= i
     i += 1
 print(f)
+
+
+OUTPUT
+5
+120
