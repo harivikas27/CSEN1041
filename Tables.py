@@ -1,3 +1,18 @@
 x=int(input(""))
 for i in range(1,11):
     print(f"{x}x {i}= {x*i}")
+
+
+OUTPUT
+
+7
+7x 1= 7
+7x 2= 14
+7x 3= 21
+7x 4= 28
+7x 5= 35
+7x 6= 42
+7x 7= 49
+7x 8= 56
+7x 9= 63
+7x 10= 70
